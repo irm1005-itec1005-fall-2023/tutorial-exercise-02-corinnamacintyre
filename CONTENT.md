@@ -91,7 +91,7 @@ Ward Ward Name Municipal Taxes Percent of Total `table`
 
 17 CAPITAL 94,693,764 4.66%
 
-18 ALTA VISTA 93,484,569 4.60%
+18 ALTA VISTA c 4.60%
 
 19 ORLÉANS SOUTH-NAVAN 84,471,284 4.16%
 
